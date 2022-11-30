@@ -36,5 +36,5 @@
   </div>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tezcanbugra&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="tezcanbugra" align="left" /></p>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tezcanbugra&amp;show_icons=true&amp;locale=en" alt="tezcanbugra" align="center" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tezcanbugra&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="tezcanbugra" align="left" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tezcanbugra&amp;show_icons=true&amp;locale=en" alt="tezcanbugra" align="center" /></p>
