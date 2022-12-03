@@ -10,7 +10,7 @@
 
 
 <h2 align="left">Connect with me:</h2>
-<p align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/bugratezcan/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bugratezcan/" width="40" height="30" align="center" /></a> <a href="https://www.hackerrank.com/https://www.hackerrank.com/bugratezcan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/bugratezcan" width="40" height="30" align="center" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/bugratezcan/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bugratezcan/" width="40" height="30" align="center" /></a> <a href="https://www.hackerrank.com/https://www.hackerrank.com/bugratezcan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/bugratezcan" width="40" height="30" align="center" /></a></p>
 <h2 align="left">&nbsp;</h2>
 <h3 align="left">Languages and Tools:</h3>
 <div>
