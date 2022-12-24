@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bugra</h1>
 <p>&nbsp;</p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tezcanbugra&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="tezcanbugra" /></p>
-<h3 align="center">A web developer, DevSecOps specialist, and a passionate learner.</h3>
+<h3 align="center">A web developer and a DevSecOps specialist.</h3>
 <br /> 
 
 💬 Ask me about **Web Application Security, DevSecOps, Web Development**
